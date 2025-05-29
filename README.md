@@ -74,7 +74,7 @@ Aquí algunas de las tecnologías y herramientas con las que trabajo:
 ### 💬 Contacto
 
 * **Correo Electrónico:** romoalejandro88@gmail.com
-* **Pagína Web:** [raulromo-dev](https://raulromo-dev.web.app/)
+* **Página Web:** [raulromo-dev](https://raulromo-dev.web.app/)
 * **LinkedIn:** [Raúl Alejandro Romo Ortiz](https://www.linkedin.com/in/raúl-alejandro-romo-ortiz-401005225)
 * **Teléfono:** +52 449-439-8156
 
